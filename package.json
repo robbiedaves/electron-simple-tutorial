@@ -1,0 +1,15 @@
+{
+  "name": "electron-simple-tutorial",
+  "version": "1.0.0",
+  "description": "A simple electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Davies",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.12"
+  }
+}
